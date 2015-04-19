@@ -1,7 +1,7 @@
 # Reproducible Research: Peer Assessment 1
 
 Author  : Akash Chauhan  
-Date    : 15th Feb 2015
+Date    : 19th April 2015
 
 
 ## Loading and preprocessing the data
